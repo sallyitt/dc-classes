@@ -1,8 +1,8 @@
 {
 	"index": 3,
 	"attributes": {
-		"generic.max_health": 10,
-		"generic.movement_speed": 0.17,
+		"generic.max_health": 14,
+		"generic.movement_speed": 0.20,
 		"forge:entity_gravity": 0.072,
 		"paraglider:max_stamina": 32
 	},

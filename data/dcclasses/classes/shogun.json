@@ -1,0 +1,45 @@
+{
+	"index": 2,
+	"attributes": {
+		"generic.max_health": 16,
+		"generic.armor": 1,
+		"generic.movement_speed": 0.10,
+		"paraglider:max_stamina": 10
+	},
+	"starting_skills": [
+		"epicfight:step",
+		"epicfight:endurance"
+	],
+	"items": [
+		{
+			"id": "samurai_dynasty:katana",
+			"slot": "mainhand"
+		},
+		{
+			"id": "minecraft:bread",
+			"count": 20,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:samurai_dynasty:iron_samurai_helmet",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "samurai_dynasty:iron_samurai_chestplate",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "samurai_dynasty:iron_samurai_leggings",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "samurai_dynasty:iron_samurai_boots",
+			"count": 1,
+			"slot": "mainhand"
+		}
+	],
+	"animation": "epicfight:biped/combat/sword_auto1"
+}

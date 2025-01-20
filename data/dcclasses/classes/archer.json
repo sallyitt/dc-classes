@@ -1,0 +1,40 @@
+{
+	"index": 7,
+	"attributes": {
+		"generic.max_health": 16,
+		"paraglider:max_stamina": 28
+	},
+	"starting_skills": [],
+	"items": [
+		{
+			"id": "minecraft:bow",
+			"slot": "mainhand"
+		},
+		{
+			"id": "minecraft:arrow",
+			"count": 128,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:shishak",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:knight_chestplate",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:knight_leggings",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:knight_boots",
+			"count": 1,
+			"slot": "mainhand"
+		}
+	],
+	"animation": "epicfight:biped/living/run"
+}

@@ -1,0 +1,42 @@
+{
+	"index": 0,
+	"attributes": {
+		"generic.max_health": 24,
+		"paraglider:max_stamina": 28
+	},
+	"starting_skills": [
+		"epicfight:roll"
+	],
+	"items": [
+		{
+			"id": "magistuarmory:stone_bastardsword",
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:steel_heatershield",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:grand_bascinet",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:knight_chestplate",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:knight_leggings",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "magistuarmory:knight_boots",
+			"count": 1,
+			"slot": "mainhand"
+		}
+	],
+	"animation": "epicfight:biped/combat/sword_auto3"
+}
